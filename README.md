@@ -14,7 +14,7 @@ find if a reddit post is nsfw with nodejs
 
 For some reason documentation on this topic is either scarce or obscure. After finding out this method by trial and error, I ended up also finding out that someone on quora. Which btw was on page 4 of google for some reason.          
 
-Don't actually use this code directly as it is badly written and please come up with better variable names than just banana.
+Don't actually use this code directly as it is badly written (very badly, my brain is not working plus i did this on mobile.) and please come up with better variable names than just banana.
 
 
 
