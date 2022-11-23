@@ -15,3 +15,7 @@ find if a reddit post is nsfw with nodejs
 For some reason documentation on this topic is either scarce or obscure. After finding out this method by trial and error, I ended up also finding out that someone on quora. Which btw was on page 4 of google for some reason.          
 
 Don't actually use this code directly as it is badly written and please come up with better variable names than just banana.
+
+
+
+**also r/gonewild is nsfw** [DON't GO THERE PLS], i came across it when i was making this filter for my bot and popped into literally the first discord server on my list and asked? `any nsfw subreddit? for research purposes`. i also sent this repo url there to clear up some misunderstandings.
