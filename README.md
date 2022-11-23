@@ -5,8 +5,12 @@ to get subreddit details i played around with the about and adding .json behind 
 Anyhow I'm leaving this here because of the lack of documentation.
 
 this is how you               
-find if a subreddit is nsfw         
-find if a reddit post is nsfw     
+find if a subreddit is nsfw with nodejs         
+find if a reddit post is nsfw with nodejs     
+
+adding this thing here so people may find it on google.      
+
+
 
 For some reason documentation on this topic is either scarce or obscure. After finding out this method by trial and error, I ended up also finding out that someone on quora. Which btw was on page 4 of google for some reason.          
 
