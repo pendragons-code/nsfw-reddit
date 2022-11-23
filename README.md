@@ -8,7 +8,7 @@ this is how you
 find if a subreddit is nsfw with nodejs         
 find if a reddit post is nsfw with nodejs     
 
-adding this thing here so people may find it on google.      
+` ^^ adding this thing here so people may find it on google.`      
 
 
 
